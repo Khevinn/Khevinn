@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-khevin.karlospe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khevin.karlospe@gmail.com "Connect via Email")
- ![Profile Views](https://komarev.com/ghpvc/?username=Khevinn&color=7802aa)
+##[![Gmail Badge](https://img.shields.io/badge/-khevin.karlospe@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khevin.karlospe@gmail.com "Connect via Email")
 
-(https://github.com/Khevinn)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khevinn&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+##![Profile Views](https://komarev.com/ghpvc/?username=Khevinn&color=7802aa)
+
+##(https://github.com/Khevinn)
+
+##[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khevinn&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
